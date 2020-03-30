@@ -1,0 +1,19 @@
+{
+  "name": "cprojektteszt",
+  "version": "1.0.0",
+  "description": "Teszt projekt (Test project)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tothzoltan4/test.git"
+  },
+  "author": "Tóth Zoltán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tothzoltan4/test/issues"
+  },
+  "homepage": "https://github.com/tothzoltan4/test#readme"
+}
